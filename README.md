@@ -17,15 +17,16 @@ python3 -m venv .venv
 ```
 
 4. 激活虚拟环境
-Mac/Linux:
-```bash
-source .venv/bin/activate
-```
 
-Windows:
-```bash
-.venv\Scripts\activate
-```
+    Mac/Linux:
+    ```bash
+    source .venv/bin/activate
+    ```
+
+    Windows:
+    ```bash
+    .venv\Scripts\activate
+    ```
 
 4. 安装依赖
 ```bash
